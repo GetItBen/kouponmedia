@@ -131,7 +131,7 @@
     </div>
     <div id="header">
       <div class="inner">
-        <h1><a href="index.html" title="Koupon Media">Koupon Media</a></h1>
+        <h1><a href="index.php" title="Koupon Media">Koupon Media</a></h1>
         
         <div id="nav">
           <ul>
