@@ -236,7 +236,7 @@
         </ul>
         <span>iPhone 
           and iMac are trademarks of Apple Inc.<br />  HTC One X is a trademark of HTC Corporation.</span>
-        <p>&copy; 2012-2013 Koupon Media, INC. All Rights Reserved</p>
+        <p>&copy; 2012-2013 Koupon Media, Inc. All Rights Reserved</p>
       </div>
       
     <!-- footer -->
